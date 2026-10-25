@@ -56,14 +56,3 @@ market/forms.py      Listing form and profile form
 market/seed.py       First-run demo data
 swapshelf/settings.py
 ```
-
-## Assignment notes
-
-Host this somewhere your classmates and instructor can reach. Walk the running app until you can explain:
-
-- how a listing id becomes a row
-- which pages a logged-out visitor can open
-- what the profile form writes back to the user
-- what the department desk is for, and who can open it
-
-Then look for a security defect in the running system, document how to trigger it, and patch it without breaking normal posting. Submit the hosted URL, a short architecture sketch, the writeup, and the patched repo.
