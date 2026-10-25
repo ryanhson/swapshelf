@@ -1,0 +1,8 @@
+data/*.db
+!data/.gitkeep
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+staticfiles/
